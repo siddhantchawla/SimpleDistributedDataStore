@@ -66,7 +66,8 @@ public class Communication {
         ObjectInputStream in = new ObjectInputStream(socket.getInputStream());
 
         out.writeObject(request);
-
-        return (R)in.readObject();
+        Object response = in.readObject();
+        socket.close();
+        return (R)response;
     }
 }
