@@ -7,9 +7,10 @@ import request.PutRequest;
 public class Client {
 
     private Communication comm = new Communication();
+    private Discovery discovery = new Discovery();
 
     public void start() throws Exception{
-
+        discovery.join();
     }
 
     public void put(String key, String value) throws Exception {
