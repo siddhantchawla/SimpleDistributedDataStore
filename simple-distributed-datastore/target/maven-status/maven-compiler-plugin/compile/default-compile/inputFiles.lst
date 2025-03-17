@@ -1,0 +1,8 @@
+/workspaces/SimpleDistributedDataStore/simple-distributed-datastore/src/main/java/distributed/datastore/Client.java
+/workspaces/SimpleDistributedDataStore/simple-distributed-datastore/src/main/java/distributed/datastore/request/PutRequest.java
+/workspaces/SimpleDistributedDataStore/simple-distributed-datastore/src/main/java/distributed/datastore/communication/Communication.java
+/workspaces/SimpleDistributedDataStore/simple-distributed-datastore/src/main/java/distributed/datastore/request/GetRequest.java
+/workspaces/SimpleDistributedDataStore/simple-distributed-datastore/src/main/java/distributed/datastore/storage/Storage.java
+/workspaces/SimpleDistributedDataStore/simple-distributed-datastore/src/main/java/distributed/datastore/request/Request.java
+/workspaces/SimpleDistributedDataStore/simple-distributed-datastore/src/main/java/distributed/datastore/Server.java
+/workspaces/SimpleDistributedDataStore/simple-distributed-datastore/src/main/java/distributed/datastore/discovery/Discovery.java

@@ -1,0 +1,9 @@
+distributed/datastore/request/GetRequest.class
+distributed/datastore/request/PutRequest.class
+distributed/datastore/Server.class
+distributed/datastore/discovery/Discovery.class
+distributed/datastore/discovery/Discovery$Node.class
+distributed/datastore/storage/Storage.class
+distributed/datastore/Client.class
+distributed/datastore/communication/Communication.class
+distributed/datastore/request/Request.class
